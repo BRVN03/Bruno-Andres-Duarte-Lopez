@@ -18,4 +18,6 @@ Actualmente sigo formándome y desarrollando proyectos personales.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BRVN03&show_icons=true&theme=tokyonight)
 
+### 📈 Lenguajes más usados
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRVN03&layout=compact&theme=tokyonight)
