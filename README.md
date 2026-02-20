@@ -14,9 +14,9 @@ Me gusta crear aprender nuevas tecnologías y mejorar mis habilidades semanalmen
 **autoaprendizaje, entrenar, escuchar música y salir con mis amigos**.
 Actualmente sigo formándome y desarrollando proyectos personales.
 
-### 🔹 GitHub Readme Stats
+### 📊 Estadísticas generales
 
-```markdown![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRVN03&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRVN03&show_icons=true&theme=tokyonight)
 
 ###🔹 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRVN03&layout=compact&theme=radical)
