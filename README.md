@@ -23,4 +23,5 @@ Estadisticas en este año ** que llevo estudiando **
 ### 📈 Lenguajes más usados
 
 Lenguajes de programación en este año * que llevo estudiando *
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRVN03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BRVN03&layout=compact&theme=tokyonight)
