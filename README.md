@@ -1,6 +1,6 @@
 # **Bruno Andres Duarte Lopez**
 > ## MY SELF
->>Tengo 22 años y vivo en Léganes. Ahora mismo soy estudiante de 1ro DAW en el Luis Vives.
+>> ***Tengo 22 años y vivo en Léganes. Ahora mismo soy estudiante de 1ro DAW en el Luis Vives.***
 > ## TECNOLOGIAS QUE USO
 >
 >> - 💻 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
