@@ -15,9 +15,12 @@ Me gusta crear aprender nuevas tecnologías y mejorar mis habilidades semanalmen
 Actualmente sigo formándome y desarrollando proyectos personales.
 
 ### 📊 Estadísticas generales
+Estadisticas en este año ** que llevo estudiando **
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BRVN03&show_icons=true&theme=tokyonight)
 
+
 ### 📈 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRVN03&layout=compact&theme=tokyonight)
+Lenguajes de programación en este año * que llevo estudiando *
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRVN03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
